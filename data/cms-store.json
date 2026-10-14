@@ -1,0 +1,10 @@
+{
+  "test": true,
+  "cloudConfig": {
+    "provider": "supabase",
+    "supabaseUrl": "https://xivosnuqyfnpvmapymfq.supabase.co",
+    "supabaseAnonKey": "",
+    "lastSyncedAt": "2026-10-14T10:00:00.000Z"
+  },
+  "updatedAt": "2026-10-14T11:40:43.544Z"
+}
